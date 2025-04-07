@@ -1,0 +1,18 @@
+current directory: /Users/sarii/rails/ecs_deploy_sample/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/sarii/.anyenv/envs/rbenv/versions/3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/sarii/rails/ecs_deploy_sample/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250404-66743-17xsza sitelibdir\=./.gem.20250404-66743-17xsza clean
+
+current directory: /Users/sarii/rails/ecs_deploy_sample/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250404-66743-17xsza sitelibdir\=./.gem.20250404-66743-17xsza
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/sarii/rails/ecs_deploy_sample/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250404-66743-17xsza sitelibdir\=./.gem.20250404-66743-17xsza install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250404-66743-17xsza/racc
+
+current directory: /Users/sarii/rails/ecs_deploy_sample/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250404-66743-17xsza sitelibdir\=./.gem.20250404-66743-17xsza clean
