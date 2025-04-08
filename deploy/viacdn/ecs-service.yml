@@ -90,7 +90,7 @@ Resources:
         Fn::ImportValue: !Sub ${SystemName}-${Environment}-vpc-VPC
       HealthCheckEnabled: true
       HealthCheckProtocol: HTTP
-      HealthCheckPath: /
+      HealthCheckPath: /up
       HealthCheckPort: traffic-port
       HealthyThresholdCount: 5
       UnhealthyThresholdCount: 2
